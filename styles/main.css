@@ -984,7 +984,11 @@ td {
         font-family: Georgia, serif;
       }
     
-      .toc-container {
-        display: none;
+      .main {
+        background: #edf2ff;
+      }
+    
+      body {
+        background: #edf2ff;
       }
     
